@@ -88,3 +88,12 @@ button.btn:hover, button.btn:focus, button.btn:active{
 .hidden{
     display: none;
 }
+
+@media only screen and (max-width: 600px){
+    section {
+        height: 60vh;
+    }
+    .gameArea {
+        width: 100%;
+    }
+}
