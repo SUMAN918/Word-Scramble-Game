@@ -49,7 +49,7 @@ btn.addEventListener("click", () =>{
             guess.value = "";
         }else{
             console.log("incorrect");
-            msg.innerText = `Sorry! It's Incorrect. Plz try again ${randWords}`;
+            msg.innerText = `Sorry! It's Incorrect. Plz try again: ${randWords}`;
         }
     }
 });
