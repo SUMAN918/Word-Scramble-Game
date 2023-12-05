@@ -92,7 +92,7 @@ button.btn:hover, button.btn:focus, button.btn:active{
 @media only screen and (max-width: 600px){
     h1 {
         font-size: 1rem;
-        letter-spacing: 8px;
+        letter-spacing: 5px;
     }
     section {
         height: 70vh;
