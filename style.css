@@ -92,10 +92,10 @@ button.btn:hover, button.btn:focus, button.btn:active{
 @media only screen and (max-width: 600px){
     h1 {
         font-size: 1rem;
-        letter-spacing: 5px;
+        letter-spacing: 6px;
     }
     section {
-        height: 70vh;
+        height: 85vh;
     }
     .gameArea {
         width: 100%;
